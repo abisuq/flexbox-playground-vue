@@ -1,6 +1,8 @@
 # flexbox-playground
 
-> A Vue.js project
+> [click to play](http://play-flexbox.surge.sh/)
+
+> this is a copy of [flexbox playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/) in vuejs
 
 ## Build Setup
 
@@ -13,9 +15,4 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
